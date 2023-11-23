@@ -1,0 +1,65 @@
+body { 
+    max-width: 500px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+
+#first-div {
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    background-color: aquamarine;
+  
+    
+}
+
+
+h1 {
+    color: white;
+
+}
+
+
+#nostylelist {
+    color: white; 
+    list-style-type: none;
+  
+
+}
+
+
+
+
+h4 {
+    color: grey;
+    margin-top: 0px;
+
+}
+
+#first-article {
+    margin-bottom: 0%;
+
+}
+
+strong {
+    color: purple;
+
+}
+
+#second-div{
+
+    background-color:gray
+
+}
+
+
+button {
+    color: white;
+    background-color: blue
+    
+    ;}
+
+    h5 {font-size: 1.2em;}
